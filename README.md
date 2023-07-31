@@ -1,16 +1,4 @@
-# assigment1
+Welcome to 2Phones, your ultimate destination for top-notch refurbished smartphones! Whether you're a tech enthusiast on the lookout for the latest models at unbeatable prices or a budget-conscious buyer seeking reliable devices without breaking the bank, 2Phones has got you covered. Our innovative mobile app offers a seamless and secure platform, providing a wide selection of professionally refurbished smartphones that are as good as new. Join us as we redefine the way you shop for smartphones, combining affordability, quality, and convenience in one extraordinary app. Get ready to experience a world of possibilities with 2Phones!
 
-A new Flutter project.
+Uploading Android Emulator - Pixel_4_XL_API_30_5554 2023-07-31 21-11-10.mp4…
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
